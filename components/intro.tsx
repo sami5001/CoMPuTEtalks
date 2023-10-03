@@ -13,7 +13,7 @@ const Intro = () => {
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
           CoMPuTE Programme
-        </a>{' '}.
+        </a>
         .
       </h4>
     </section>
