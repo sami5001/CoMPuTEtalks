@@ -14,7 +14,7 @@ const Intro = () => {
         >
           CoMPuTE Programme
         </a>{' '}
-        and {CMS_NAME}.
+        .
       </h4>
     </section>
   )
