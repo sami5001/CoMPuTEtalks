@@ -6,6 +6,9 @@ const Intro = () => {
       <h1 className="text-5xl md:text-8xl text-compute-red font-bold tracking-tighter leading-tight md:pr-8">
         CoMPuTE Talks
       </h1>
+        <h1 className="text-5xl md:text-8xl text-compute-slate font-bold tracking-tighter leading-tight md:pr-8">
+            Talks
+        </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
         A Patient and Public Involvement and Engagement (PPIE) initiative by the{' '}
         <a
