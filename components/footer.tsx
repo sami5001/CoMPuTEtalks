@@ -11,13 +11,13 @@ const Footer = () => {
           </h3>
           <div className="py-28 flex flex-col lg:flex-row items-center">
           <a href={`https://www.phc.ox.ac.uk/`} className="flex items-left">
-          <img src = "images/Oxford_Nuffield_Primary_Care_RGB.svg" alt="NDPCHS Logo" width="50%"/>
+          <img src = "https://raw.githubusercontent.com/sami5001/CoMPuTEtalks/main/public/images/Oxford_Nuffield_Primary_Care_RGB.svg" alt="NDPCHS Logo" width="50%"/>
             </a>
             <a href={`https://www.ndph.ox.ac.uk/`} className="flex items-left">
             <img src = "https://www.ndph.ox.ac.uk/images/site-logos/department_main.png" alt="NDPH Logo" width="50%"/>
             </a>
           <a href={`https://www.arc-oxtv.nihr.ac.uk`} className="flex items-left">
-            <img src = "images/NIHR_Logos_Funded-01-Col-Corp RGB.png" alt="NIHR Logo" width="50%"/>
+            <img src = "https://raw.githubusercontent.com/sami5001/CoMPuTEtalks/78d25d93e6c64f9f0dd675d139197e980135ad30/public/images/NIHR_Logos_Funded-01-Col-Corp%20RGB.png" alt="NIHR Logo" width="50%"/>
             </a>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
