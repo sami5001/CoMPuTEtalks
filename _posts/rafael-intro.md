@@ -1,10 +1,10 @@
 ---
 title: 'CoMPuTE Launch Event - Introduction'
-excerpt: 'Introduction speech by Prof Dr Rafael Perera.'
+excerpt: 'Introduction by Prof Dr Rafael Perera.'
 coverImage: '/assets/blog/rafael-intro/Rafael-Presentation-web.jpg'
 date: '2023-06-27T05:35:07.322Z'
 author:
-  name: Rarael Perera
+  name: Rafael Perera
   picture: '/assets/blog/authors/rafael.jpg'
 ogImage:
   url: '/assets/blog/rafael-intro/Rafael-Presentation-web.jpg'
@@ -26,7 +26,7 @@ ogImage:
 
 Introduction by [Prof Dr Rafael Perera](https://www.phc.ox.ac.uk/team/rafael-perera).
 
-![Watch the video here.](https://youtu.be/OnDXxnZELoE)
+**[Click here to watch the video.](https://youtu.be/OnDXxnZELoE)**
 
 <iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/OnDXxnZELoE?si=7Q55bv7HThp3ipwp" title="YouTube video player" frameborder="0" data-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
