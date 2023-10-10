@@ -9,6 +9,7 @@ const Footer = () => {
           <h3 className="text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
             Project Partners
           </h3>
+          <div className="py-28 flex flex-col lg:flex-row items-left">
           <a href={`https://www.phc.ox.ac.uk/`} className="flex items-left">
           <img src = "images/Oxford_Nuffield_Primary_Care_RGB.svg" alt="Department Logo" width="50%"/>
             </a>
@@ -28,6 +29,7 @@ const Footer = () => {
             >
               View GitHub Repository
             </a>
+          </div>
           </div>
         </div>
       </Container>
