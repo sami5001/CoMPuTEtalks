@@ -10,10 +10,10 @@ const Footer = () => {
             Project Partners
           </h3>
           <a href={`https://www.phc.ox.ac.uk/`} className="flex items-center">
-          <img src = "images/Oxford_Nuffield_Primary_Care_RGB.svg" alt="Department Logo"/>
+          <img src = "images/Oxford_Nuffield_Primary_Care_RGB.svg" alt="Department Logo" width="50%"/>
             </a>
           <a href={`https://www.arc-oxtv.nihr.ac.uk`} className="flex items-center">
-            <img src = "images/NIHR_Logos_Funded-01-Col-Corp RGB.png" alt="NIHR Logo"/>
+            <img src = "images/NIHR_Logos_Funded-01-Col-Corp RGB.png" alt="NIHR Logo" width="50%"/>
             </a>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
