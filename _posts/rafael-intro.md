@@ -26,5 +26,7 @@ ogImage:
 
 Introduction by [Prof Dr Rafael Perera](https://www.phc.ox.ac.uk/team/rafael-perera).
 
+![Watch the video here.](https://youtu.be/OnDXxnZELoE)
+
 <iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/OnDXxnZELoE?si=7Q55bv7HThp3ipwp" title="YouTube video player" frameborder="0" data-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
