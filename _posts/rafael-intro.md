@@ -10,18 +10,15 @@ ogImage:
   url: '/assets/blog/rafael-intro/Rafael-Presentation-web.jpg'
 ---
 
-import lazyload from 'vanilla-lazyload';
-
-let lazyLoadInstance;
-
-onMount(() => {
- lazyloadInstance = new lazyload();
-}
-
 
 <iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/OnDXxnZELoE?si=7Q55bv7HThp3ipwp" title="YouTube video player" frameborder="0" data-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 
+<video src="https://www.youtube.com/embed/OnDXxnZELoE?si=7Q55bv7HThp3ipwp"></video>
+
 ## Introduction – CoMPuTE Launch Event
 
 Introduction by [Prof Dr Rafael Perera](https://www.phc.ox.ac.uk/team/rafael-perera).
+
+<iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/OnDXxnZELoE?si=7Q55bv7HThp3ipwp" title="YouTube video player" frameborder="0" data-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
