@@ -10,7 +10,9 @@ ogImage:
   url: '/assets/blog/rafael-intro/Rafael-Presentation-web.jpg'
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OnDXxnZELoE?si=pKmzYkhWlJUftihv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<html>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OnDXxnZELoE?si=7Q55bv7HThp3ipwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</html>
 
 ## Introduction – CoMPuTE Launch Event
 
