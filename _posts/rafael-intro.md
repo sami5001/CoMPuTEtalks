@@ -9,16 +9,17 @@ author:
 ogImage:
   url: '/assets/blog/rafael-intro/Rafael-Presentation-web.jpg'
 ---
+import YouTubePlayer from '../components/YouTubePlayer';
 
-
+<script>
 <iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/OnDXxnZELoE?si=7Q55bv7HThp3ipwp" title="YouTube video player" frameborder="0" data-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-
+</script>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/w7Ft2ymGmfc?autoplay=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" autoplay="true" >}}
+<YouTubePlayer videoId="bmD-tZe8HBA" />
 
 <video src="https://www.youtube.com/embed/OnDXxnZELoE?si=7Q55bv7HThp3ipwp"></video>
 
