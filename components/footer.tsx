@@ -6,8 +6,9 @@ const Footer = () => {
     <footer className="bg-neutral-50 border-t border-neutral-200">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
-
+          <a href={`https://www.phc.ox.ac.uk/`} className="flex items-center">
           <img src = "images/Oxford_Nuffield_Primary_Care_RGB.svg" alt="Department Logo"/>
+            </a>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
               href="https://www.phc.ox.ac.uk/research/medical-statistics/COMPUTE"
