@@ -7,7 +7,7 @@ const Footer = () => {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
 
-          <img src = "public/images/Oxford_Nuffield_Primary_Care_RGB.svg" alt="Department Logo"/>
+          <img src = "images/Oxford_Nuffield_Primary_Care_RGB.svg" alt="Department Logo"/>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
             <a
               href="https://www.phc.ox.ac.uk/research/medical-statistics/COMPUTE"
