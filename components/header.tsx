@@ -7,12 +7,12 @@ const Header = () => {
         CoMPuTE Talks
       </Link>
 
-
-
     </h1>
-        <br />
-            <img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="20%" height="20%" align="right" />
 
+          <br />
+           <p align="right">
+            <img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="20%" height="20%" align="right" />
+           </p>
 
   )
 }
