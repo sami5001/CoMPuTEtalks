@@ -19,7 +19,7 @@ const Intro = () => {
         </a>
         .
       </h4>
-        <img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width={20%} height={20%} />
+        <img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="20%" height="20%" />
     </section>
   )
 }
