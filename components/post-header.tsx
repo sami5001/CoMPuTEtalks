@@ -28,6 +28,9 @@ const PostHeader = ({ title, coverImage, date, author }: Props) => {
         <div className="mb-6 text-lg">
           <DateFormatter dateString={date} />
         </div>
+          <div>
+              <img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="20%" height="20%" />
+          </div>
       </div>
     </>
   )
