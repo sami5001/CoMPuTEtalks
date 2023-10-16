@@ -6,10 +6,10 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         CoMPuTE Talks
       </Link>
-        <img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="20%" height="20%" />
+
 
     </h2>
-
+<img src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="20%" height="20%" />
   )
 }
 
