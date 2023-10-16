@@ -6,7 +6,9 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         CoMPuTE Talks
       </Link>
-        <img align="right" src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="20%" height="20%" />
+        <div>
+            <img style="float:right" src="https://www.nihr.ac.uk/nihr-comms/images/visual-identity/logo/funded-by-nihr-logo.png" width="20%" height="20%" />
+        </div>
 
     </h2>
 
